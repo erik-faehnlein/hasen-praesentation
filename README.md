@@ -14,7 +14,7 @@ Diese Präsentation umfasst 10 Folien und behandelt verschiedene Aspekte des Has
 
 ## 🚀 Live-Demo
 
-Die Präsentation ist verfügbar unter: `https://[ihr-github-username].github.io/rabbit-presentation/`
+Die Präsentation ist verfügbar unter: `https://erik-faehnlein.github.io/hasen-praesentation`
 
 ## 🛠️ Technische Details
 
