@@ -4,7 +4,8 @@ Eine interaktive Präsentation über die faszinierende Welt der Hasen, erstellt 
 
 ## 📋 Über die Präsentation
 
-Diese Präsentation umfasst 10 Folien und behandelt verschiedene Aspekte des Hasenlebens:
+Diese Präsentation behandelt verschiedene Aspekte des Hasenlebens:
+
 - Anatomie und Körperbau
 - Lebensräume und Verbreitung
 - Ernährung und Verhalten
@@ -25,10 +26,15 @@ Die Präsentation ist verfügbar unter: `https://erik-faehnlein.github.io/hasen-
 
 ## 📱 Navigation
 
+- **Pos1**: Springe zur Ersten Seite
+- **End**: Springe zur Letzten Seite
 - **Pfeiltasten**: Vor/Zurück navigieren
 - **Leertaste**: Nächste Folie
+- **Alt + Click**: Zoom / Unzoom
 - **ESC**: Folienübersicht
 - **F**: Vollbild
+- **S**: Speaker View
+- **B**: Pause (Schwarzer Bildschirm)
 
 ## 👤 Autor
 

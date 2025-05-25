@@ -1,0 +1,28 @@
+{
+  "name": "hasen-praesentation",
+  "version": "1.0.0",
+  "description": "Präsentation über Hasen",
+  "keywords": [
+    "Hasen",
+    "revealjs"
+  ],
+  "homepage": "https://github.com/erik-faehnlein/hasen-praesentation#readme",
+  "bugs": {
+    "url": "https://github.com/erik-faehnlein/hasen-praesentation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erik-faehnlein/hasen-praesentation.git"
+  },
+  "license": "MIT",
+  "author": "Erik Fähnlein",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "reveal-notes-server": "^0.2.1",
+    "reveal.js": "^5.2.1"
+  }
+}
